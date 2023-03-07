@@ -1,0 +1,5 @@
+20230303	12:22:23	58121ce3-f0db-410c-86d8-94faa3e1b740	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Topology'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'topology' closes the circle
