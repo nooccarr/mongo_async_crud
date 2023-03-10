@@ -205,3 +205,8 @@
 20230307	18:25:38	883d1195-74d7-480a-bc67-6c93b613b66b	POST	undefined	/auth
 20230307	18:25:56	7f50fb9a-03bb-4d1c-ae54-2439218b0786	DELETE	undefined	/users
 20230307	18:26:08	62ae985e-2d29-4e37-8e9f-9440d93a936c	GET	undefined	/users
+20230309	18:03:06	2bfc3db4-1cac-420d-ace4-9158b0b9b1c9	POST	undefined	/auth
+20230309	18:03:30	dcc95c29-33a6-4a63-a851-fddbbda81a25	GET	undefined	/users
+20230309	18:05:47	7d4fd8c7-9807-4931-a0bb-7fb522ddbb91	GET	undefined	/
+20230309	18:05:47	9767e65c-22ae-4b47-8a84-1818ae12304c	GET	undefined	/css/style.css
+20230309	18:05:47	cb9abb45-52e3-406d-a5fc-12a1b3850d6b	GET	undefined	/favicon.ico
