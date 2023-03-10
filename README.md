@@ -6,4 +6,4 @@ This repository shares the code applied during the Youtube tutorial. The tutoria
 
 [<img src="https://cdn.gomix.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix-button.svg" width="163px" />](https://glitch.com/edit/#!/import/github/nooccarr/mongo_async_crud)
 
-**Open [Async CRUD](https://shrould-fierce-look.glitch.me) in the browser.**
+**Open [Async CRUD](https://shrouded-fierce-look.glitch.me) in the browser.**
